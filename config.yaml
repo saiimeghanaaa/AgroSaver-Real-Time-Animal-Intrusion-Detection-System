@@ -1,0 +1,5 @@
+path: "C:\\Users\\saime\\PycharmProjects\\RAT AND SNAKE DETECTION\\Data"
+train: "C:\\Users\\saime\\PycharmProjects\\RAT AND SNAKE DETECTION\\Data\\images\\train"
+val: "C:\\Users\\saime\\PycharmProjects\\RAT AND SNAKE DETECTION\\Data\\images\\train"
+
+names: ["rat", "snake"]
